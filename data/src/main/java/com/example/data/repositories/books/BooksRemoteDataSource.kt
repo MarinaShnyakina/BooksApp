@@ -1,4 +1,4 @@
-package com.example.data.reporitories.books
+package com.example.data.repositories.books
 
 import com.example.domain.entities.Volume
 import com.example.domain.common.Result

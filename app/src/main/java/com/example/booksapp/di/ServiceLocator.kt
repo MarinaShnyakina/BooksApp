@@ -6,10 +6,10 @@ import com.example.data.api.NetworkModule
 import com.example.data.db.BooksDatabase
 import com.example.data.mappers.BookApiResponseMapper
 import com.example.data.mappers.BookEntityMapper
-import com.example.data.reporitories.books.BooksLocalDataSource
-import com.example.data.reporitories.books.BooksLocalDataSourceImpl
-import com.example.data.reporitories.books.BooksRemoteDataSourceImpl
-import com.example.data.reporitories.books.BooksRepositoryImpl
+import com.example.data.repositories.books.BooksLocalDataSource
+import com.example.data.repositories.books.BooksLocalDataSourceImpl
+import com.example.data.repositories.books.BooksRemoteDataSourceImpl
+import com.example.data.repositories.books.BooksRepositoryImpl
 import kotlinx.coroutines.Dispatchers
 
 object ServiceLocator {

@@ -1,4 +1,4 @@
-package com.example.data.reporitories.books
+package com.example.data.repositories.books
 
 import com.example.data.db.BookDao
 import com.example.data.mappers.BookEntityMapper

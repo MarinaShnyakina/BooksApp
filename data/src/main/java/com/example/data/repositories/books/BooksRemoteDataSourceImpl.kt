@@ -1,4 +1,4 @@
-package com.example.data.reporitories.books
+package com.example.data.repositories.books
 
 import com.example.data.api.BooksApi
 import com.example.data.mappers.BookApiResponseMapper
